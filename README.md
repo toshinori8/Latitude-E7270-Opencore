@@ -12,20 +12,24 @@
 | Graphics			  | Intel HD Graphics 520                		|
 | Sound Card          | Sunrise Point-LP HD Audio 0x9D70  Realtec ALC293          |
 | Ethernet		      | Intel I219-LM                      |
-| WiFi		          | Intel 8260                          	|
+| WiFi / BT	          | Intel 8260                          	|
 | RAM		          | 16GB                                     	|
 
 
 
 
 
-- This version was prepared using OpenCore 0.9.5.
+- This version was prepared using OpenCore 0.9.6.
 
 
 
 ## Working / Fixed; 
-
-
+- Bluetooth Interface
+- HDMI Audio on external monitor 
+- DP without audio
+- card reader 
+- camera 
+- ethernet interface
 
 
 
@@ -39,4 +43,4 @@
 
 ### Issues
 
-
+- internal display low quality - EDID fix in time 
