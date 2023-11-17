@@ -1,7 +1,7 @@
-![Dell Latitude E7270](OC/Resources/Image/delle7270.png)
+![Dell Latitude E7270](/OC/Resources/Image/delle7270.png)
 # Dell Latitude E7270 
 ## macOS Ventura Version 13.6.3 (Build 22G423)
-ś
+
 ## Configuration
 
 | Specifications | Details                                          |
