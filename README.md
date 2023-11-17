@@ -1,4 +1,4 @@
-![Dell Latitude E7270](/OC/Resources/Image/delle7270.png)
+![Dell Latitude E7270](https://github.com/toshinori8/Latitude-E7270-Opencore/blob/main/EFI/OC/Resources/Image/delle7270.png?raw=true)
 # Dell Latitude E7270 
 ## macOS Ventura Version 13.6.3 (Build 22G423)
 
