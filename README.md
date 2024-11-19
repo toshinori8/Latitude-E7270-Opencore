@@ -25,13 +25,13 @@
 
 
 ## Working / Fixed; 
-- Bluetooth Interface
+
 - HDMI Audio on external monitor 
 - DP without audio
 - card reader 
 - camera 
 - ethernet interface
-- nvme PCIE ssd on x2 interface
+- PCIE SSD on x2 interface
 
 
 
@@ -43,5 +43,5 @@
 
 
 ### Issues
-
+- Bluetooth not working
 trackpad sometimes moves in random direction. 
